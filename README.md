@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> &nbsp
 </p>
 
-<h3 align="left">Repositories:</h3>
+<h3 align="left">Contact :</h3>
 
 - 💬 Ask me about **Flutter, NodeJS**
 

@@ -15,6 +15,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vemines&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vemines" /> &nbsp
   <img src="https://img.shields.io/badge/Flutter-2196f3?style=for-the-badge&logo=flutter&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/NodeJS-22bb33?style=for-the-badge&logo=nodedotjs&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,18 +29,21 @@
     <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> &nbsp
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vemines" alt="vemines" /></a> </p>
+<h3 align="left">Repositories:</h3>
 
 - 💬 Ask me about **Flutter, NodeJS**
 
 - 📫 How to reach me **vemines@outlook.com**
 
-- 📄 Know about my cv [http://cv.vemines.site](http://cv.vemines.site)
+- 📄 More info about me [CV](https://dashing-pothos-2ded72.netlify.app/#/cv)
 
-## Repositories
+<h3 align="left">Repositories:</h3>
 
 * [vemines.github.io](https://vemines.github.com/): A website that show widget, animations, and more
-* [NodeJS](https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge 
+* [NodeJS](https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge
+
+<h3 align="left">Github Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vemines" alt="vemines" /></a> 
+</p>
 
 

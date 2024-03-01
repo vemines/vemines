@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VeMines/">
-    <img src="1.jpg" alt="Logo" width="260" height="300">
+    <img src="1.jpg" alt="Logo" width="180" height="240">
   </a>
 
   <p align="center">
@@ -12,7 +12,11 @@
   </p>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vemines&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vemines" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vemines&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vemines" /> &nbsp
+  <img src="https://img.shields.io/badge/Flutter-2196f3?style=for-the-badge"/> &nbsp
+  <img src="https://img.shields.io/badge/NodeJS-22bb33?style=for-the-badge"/> &nbsp
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vemines" alt="vemines" /></a> </p>
 

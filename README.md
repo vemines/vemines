@@ -14,9 +14,20 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vemines&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vemines" /> &nbsp
-  <img src="https://img.shields.io/badge/Flutter-2196f3?style=for-the-badge"/> &nbsp
-  <img src="https://img.shields.io/badge/NodeJS-22bb33?style=for-the-badge"/> &nbsp
+  <img src="https://img.shields.io/badge/Flutter-2196f3?style=for-the-badge&logo=flutter&logoColor=white"/> &nbsp
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> &nbsp
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> &nbsp
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vemines" alt="vemines" /></a> </p>
 

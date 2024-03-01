@@ -24,16 +24,9 @@
 
 - 📄 Know about my cv [http://cv.vemines.site](http://cv.vemines.site)
 
+## Repositories
 
-
-
-
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+* [vemines.github.io](https://vemines.github.com/): A website that show widget, animations, and more
+* [NodeJS]([https://github.com/othneildrew/Best-README-Template](https://github.com/vemines/NodeJs)https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge 
 
 

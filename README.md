@@ -8,7 +8,7 @@
     <h3 align="center">A passionate Flutter/NodeJS developer from VietNam</h3>
     <br/>
     <br/>
-    <a href="https://github.com/VeMines/">Visit Repository</a>
+    <a href="https://github.com/vemines?tab=repositories">Visit Repository</a>
   </p>
 </p>
 

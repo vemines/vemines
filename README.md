@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **vemines@outlook.com**
 
-- 📄 More info about me [CV](https://dashing-pothos-2ded72.netlify.app/#/cv)
+- 📄 More info about me [CV](https://vemines.netlify.app/#/cv)
 
 <h3 align="left">Repositories:</h3>
 

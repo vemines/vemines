@@ -39,7 +39,7 @@
 
 <h3 align="left">Repositories:</h3>
 
-* [vemines.github.io](https://vemines.github.com/): A website that show widget, animations, and more
+* [vemines.github.io](https://vemines.github.io/): A website that show widget, animations, and more
 * [NodeJS](https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge
 
 <h3 align="left">Github Stats:</h3>

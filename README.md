@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VeMines/">
-    <img src="avatar.jpg" alt="Logo" width="180" height="240">
+    <img src="avatar.jpg" alt="Logo" width="250" height="250">
   </a>
 
   <p align="center">
@@ -8,6 +8,7 @@
     <h3 align="center">A passionate Flutter/NodeJS developer from VietNam</h3>
     <br/>
     <br/>
+    <a href="https://github.com/cv">My CV</a>
     <a href="https://github.com/vemines?tab=repositories">Visit Repository</a>
   </p>
 </p>
@@ -35,15 +36,13 @@
 
 - 📫 How to reach me **vemines@outlook.com**
 
-- 📄 More info about me [CV](https://vemines.netlify.app/#/cv)
+- 📄 More info about me [CV](https://vemines.github.com/cv)
 
 <h3 align="left">Repositories:</h3>
 
-* [vemines.github.io](https://vemines.github.io/): A website that show widget, animations, and more
-* [NodeJS](https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge
+- [vemines.github.io](https://vemines.github.io/): A website that show widget, animations, and more
+- [NodeJS](https://github.com/vemines/NodeJs): Project contains all my NodeJS knowledge
 
 <h3 align="left">Github Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vemines" alt="vemines" /></a> 
 </p>
-
-

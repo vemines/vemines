@@ -35,8 +35,6 @@
 
 - 📫 How to reach me **vemines@outlook.com**
 
-- 📄 More info about me [CV](https://vemines.netlify.app/#/cv)
-
 <h3 align="left">Repositories:</h3>
 
 * [vemines.github.io](https://vemines.github.io/): A website that show widget, animations, and more

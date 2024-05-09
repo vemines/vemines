@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VeMines/">
-    <img src="avatar.jpg" alt="Logo" width="180" height="240">
+    <img src="avatar.jpg" alt="Logo" width="250" height="250">
   </a>
 
   <p align="center">
